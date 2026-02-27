@@ -1,1 +1,1 @@
-# ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification
+# ReVeal: Self-Evolving Code Agents via Reliable Self-Verification
